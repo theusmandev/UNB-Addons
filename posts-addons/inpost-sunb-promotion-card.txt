@@ -1,0 +1,60 @@
+add after
+<data:post.body/>
+
+
+
+             
+ <b:if cond='data:post.id != 8905444435129031327 and data:post.id != 2272191334034244809 and data:post.id !=7617982322864266133  and  data:post.id !=3799311188883604842       and data:post.id !=3399173625049518375'>           
+      <div style='text-align: left;'>..</div>        
+<div dir='rtl' lang='ur' style='max-width:700px; margin:20px auto; position:relative; line-height: 2.2;'>
+
+    <div style='position:absolute; inset:0; background: linear-gradient(135deg, #4f46e5, #db2777); border-radius:8px; filter: blur(2px); opacity:0.6; z-index:0;'/>
+
+    <div style='position:relative; z-index:1; background:#fff; border-radius:6px; padding:25px; box-shadow:0 10px 30px rgba(0,0,0,0.05);'>
+        
+        <div style='display:flex; gap:15px; align-items:center; border-bottom:1px solid #eee; padding-bottom:15px; margin-bottom:15px;'>
+            <div style='position:relative; flex-shrink:0;'>
+                <a href='https://www.urdunovelbanks.com/2025/04/smart-urdu-novel-bank-ai-powered-novel.html' style='display:block; width:70px; height:70px; border:1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.1);' target='_blank'>
+                    <img alt='Smart Novel Bank Logo' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC8BuU7rJWFZefG2BTt0t6rMbmno0iLNwc-WwfSSLdM66WqLSyi8Cz38MdorGyVXTunmgklhut7hD78jNyOznKcKy8_yiZ4CwEIybMljZdSQi3zfhaHQotTSwqVWHCFI9KUTj4896Z0BtKBtMFUfJjqcc2tUS-PwlyBEMBfI6aixDIVEnbAiFU9lCwoz_/s320/urdunovelbank.webp' style='width:100%; height:100%; object-fit:cover;'/>
+                </a>
+                <span style='position:absolute; bottom:-3px; right:-3px; width:12px; height:12px; background:#10b981; border:2px solid #fff; border-radius:50%;'/>
+            </div>
+            <div>
+                 <h2 style='margin:0; font-size:18px; color:#4f46e5; font-weight:800;'> &quot;اردو ادب کا خزانہ&#1548; اب صرف ایک کلک پر!&quot;</h2>
+                 <span style='font-size:13px; color:#6b7280;'>Smart Urdu Novel Bank</span>
+            </div>
+        </div>
+
+        <div style='color:#374151; font-size:15px;'>
+            <p style='margin-top:0; margin-bottom:15px;'><b>پیارے ریڈرز !</b> </p>
+       
+          <p style='margin-top:5px; margin-bottom:15px;'><b>السلام علیکم! </b> 👋</p>
+            
+            <p>ہم جانتے ہیں کہ ایک اچھا ناول ڈھونڈنا کتنا مشکل ہوتا ہے&#1748; کبھی لنک نہیں ملتا&#1548; تو کبھی ویب سائٹ نہیں کھلتی&#1748; اسی مسئلے کے حل کے لیے ہم نے <b>&quot;Smart Urdu Novel Bank&quot;</b> تخلیق کیا ہے&#1748;</p>
+            
+            <p>یہ صرف ایک ویب سائٹ نہیں&#1548; بلکہ ایک <span style='background:#eef2ff; color:#4f46e5; padding:0 4px; border-radius:4px;'>&quot;Smart Library&quot;</span> ہے جہاں آپ کو انٹرنیٹ پر موجود تقریبا&#1611; ہر وہ ناول ملے گا جو پی ڈی ایف شکل میں موجود ہے&#1748;</p>
+
+            <div style='background:#fdf2f8; border-right:4px solid #db2777; padding:12px 15px; margin:15px 0; border-radius:4px;'>
+                <p style='margin:0; color:#831843;'>
+                    <b> ایک چھوٹی سی جھلک:</b><br/>
+                    عام ویب سائٹس پر آپ کو چند سو ناولز ملتے ہیں&#1548; لیکن ہمارے اس سسٹم میں <b>70 ہزار سے زائد</b> ناولز کے لنکس محفوظ ہیں! چاہے پرانا ڈائجزٹ ہو یا نیا ناول&#1548; بس نام لکھیں اور لنک حاضر&#1748;
+                </p>
+            </div>
+
+            <p style='margin-bottom:5px; font-weight:700; color:#111827; text-align:center;'>
+                آزمانا شرط ہے! ابھی نیچے دیے گئے لنک پر کلک کریں: 👇
+            </p>
+        </div>
+
+        <div style='margin-top:15px;'>
+            <a href='https://www.urdunovelbanks.com/2025/04/smart-urdu-novel-bank-ai-powered-novel.html' style='text-decoration:none; display:block;' target='_blank'>
+                <span style='display:flex; align-items:center; justify-content:center; gap:8px; padding:14px 20px; border-radius:6px; background:linear-gradient(90deg, #4f46e5, #db2777); color:#fff; font-weight:700; box-shadow:0 6px 20px rgba(79, 70, 229, 0.25); transition:transform 0.2s;'>
+                    <span>🔗 یہاں کلک کریں اور ناول تلاش کریں</span>
+                </span>
+            </a>
+        </div>
+
+    </div>
+</div>
+              
+   </b:if>
