@@ -1,0 +1,13 @@
+.item .video-thumb {
+  display: none !important;
+}
+
+
+
+put the above code in additonal css of theme
+
+and add class in img tag
+
+<img class="video-thumb"
+alt="Some incomplete novelist characters of complete novels – Urdu Literature"
+src="...download.png">
