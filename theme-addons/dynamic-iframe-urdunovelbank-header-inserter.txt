@@ -1,0 +1,20 @@
+<script>
+document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+  document.querySelectorAll(&quot;.post-body iframe&quot;).forEach(function(iframe) {
+    // wrapper create karo
+    let wrapper = document.createElement(&quot;div&quot;);
+    wrapper.className = &quot;novel-wrapper&quot;;
+
+    // header add karo
+    let header = document.createElement(&quot;div&quot;);
+    header.className = &quot;novel-header&quot;;
+    header.innerText = &quot;📖 اردو ناول بینک&quot;;
+
+    // iframe ke parent me replace karo
+    iframe.parentNode.insertBefore(wrapper, iframe);
+    wrapper.appendChild(header);
+    wrapper.appendChild(iframe);
+  });
+});
+</script>
+  
