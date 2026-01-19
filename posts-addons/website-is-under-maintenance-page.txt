@@ -1,0 +1,57 @@
+<p>&nbsp; &lt;div style='position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: white; z-index: 9999; text-align: center; padding-top: 5%;'&gt;</p><p>&nbsp; &lt;img alt='Under Maintenance' src='https://www.mfuindia.com/Under-Maintainence/site-under-maintenance.jpg' style='max-width: 300px;'/&gt;</p><p>&nbsp; &nbsp; &lt;br/&gt;</p><p>&nbsp; &nbsp; &lt;br/&gt;</p><p>&nbsp; &nbsp;&nbsp;</p><p>&nbsp; &lt;h1&gt;Website is Under Maintenance&lt;/h1&gt;&lt;br/&gt;</p><p>&nbsp; &lt;p&gt;Hye Novel Lovers!🙋&amp;#8205;&amp;#9792;&amp;#65039;We are currently performing scheduled maintenance. We should be back shortly. &lt;br/&gt;Thank you for your patience!&lt;/p&gt;</p><p>&lt;/div&gt;</p>
+
+
+
+
+
+
+
+
+    
+<div style="background-color: white; font-family: Gulzar, serif; height: 100%; left: 0px; padding-top: 5%; position: fixed; text-align: center; top: 0px; width: 100%; z-index: 9999;">
+  <img alt="Under Maintenance" src="https://www.mfuindia.com/Under-Maintainence/site-under-maintenance.jpg" style="max-width: 250px;" />
+  <br />
+  <br />
+  <h3 style="font-family: Gulzar, serif;">ویب سائٹ فی الحال مرمت کے مراحل میں ہے</h3><br />
+  <p style="font-family: Gulzar, serif;">ہم آپ کے لئے مزید دلچسپ ناول اور ایک بہتر پڑھنے کا تجربہ فراہم کرنے کے لئے کام کر رہے ہیں۔</p>
+  <p style="font-family: Gulzar, serif;">آپ کے صبر کا شکریہ!<br /> برائے مہربانی جلد واپس آئیں تاکہ آپ ہمارے تازہ ترین اردو ناولز سے لطف اندوز ہو سکیں۔</p>
+  <p style="font-family: Gulzar, serif;">
+  <strong>اس دوران آپ نیچے دی گی ہماری گوگل ڈراوز سے اپنا مطلوبہ ناول ڈاؤن لوڈ کر سکتے ہیں ۔۔</strong>
+</p>
+
+  <br />
+  <a href="https://drive.google.com/drive/folders/1-p-EWXhcxIB8n62cphCaigzn1hrxg5mx" style="margin: 0px 10px;" target="_blank">
+     Drive 1 👉Click Here
+    </a>
+  <br />
+  <a href="https://drive.google.com/drive/folders/19LkxqJ19SPIN6BlyJ_7yKm1Dbwb-4lg3" style="margin: 0px 10px;" target="_blank">
+     Drive 2 👉Click Here
+    </a>
+  <br />
+  <a href="https://drive.google.com/drive/folders/1U3iPcFXWU3Rn-B1u-qByutnCQ7SHMA7c" style="margin: 0px 10px;" target="_blank">
+     Drive 3 👉Click Here
+    </a>
+  
+  <br />
+  <br />  
+  <div>
+    <p style="font-family: Gulzar, serif;">یا ہمارے سوشل میڈیا اکاؤنٹس پر ہم سے ناول ڈیمانڈ کر سکتے ہیں ۔ ۔۔</p>
+    <br />
+    <h3>We are Social</h3>
+    <br />
+   <a href="https://www.facebook.com/people/Urdu-novel-Bank/100090906471153/" style="margin: 0px 10px;" target="_blank">
+      <img alt="Facebook" src="https://img.icons8.com/color/50/000000/facebook-new.png" style="width: 30px;" />
+    </a>
+    <a href="https://youtube.com/@urdunovelbank" style="margin: 0px 10px;" target="_blank">
+      <img alt="YouTube" src="https://img.icons8.com/color/50/000000/youtube.png" style="width: 30px;" />
+    </a>
+    <a href="https://www.instagram.com/urdunovelbank/" style="margin: 0px 10px;" target="_blank">
+      <img alt="Instagram" src="https://img.icons8.com/color/50/000000/instagram-new.png" style="width: 30px;" />
+    </a>
+    
+    <a href="https://www.pinterest.com/bankurdunovel/" style="margin: 0px 10px;" target="_blank">
+      <img alt="Pinterest" src="https://img.icons8.com/color/50/000000/pinterest.png" style="width: 30px;" />
+    </a>
+   </div>
+</div>
+
