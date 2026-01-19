@@ -1,0 +1,13 @@
+<div style="background-color: #f9f9f9; border-radius: 10px; margin-top: 20px; padding: 15px;">
+  <h3>Frequently Asked Questions</h3>
+  
+  <details open="" style="margin-bottom: 10px;">
+    <summary style="cursor: pointer; font-weight: bold;">Is Shehar e Ashob available in PDF?</summary>
+    <p>Yes, you can download the complete PDF of Shehar e Ashob from Urdu Novel Bank.</p>
+  </details>
+
+  <details open="" style="margin-bottom: 10px;">
+    <summary style="cursor: pointer; font-weight: bold;">Is Aalia Bukhari a famous writer?</summary>
+    <p>Absolutely, Aalia Bukhari is a renowned Pakistani writer known for her dramas and novels.</p>
+  </details>
+</div>
