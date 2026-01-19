@@ -1,0 +1,50 @@
+<style>
+#simple_table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #ffffff;
+    color: black;
+}
+
+#simple_table td, #simple_table th {
+    text-align: left;
+    padding: 8px;
+    border: 2px solid #000000;
+}
+
+#simple_table tr:nth-child(odd) {
+    background-color: #dddddd; /* Gray background for odd rows */
+}
+
+#simple_table tr:nth-child(even) {
+    background-color: #ffffff; /* White background for even rows */
+}
+
+#simple_table tr:hover {
+    background-color: #ffff99; /* Yellow background on hover for all rows */
+}
+</style>
+
+<table id="simple_table">
+    <tbody><tr>
+        <td>Title</td>
+        <td>row1 col 2</td>
+    </tr>
+    <tr>
+        <td>Writer</td>
+        <td>row2 col 2</td>
+    </tr>
+    <tr>
+        <td>Pages</td>
+        <td>row3 col 2</td>
+    </tr>
+    <tr>
+        <td>Format</td>
+        <td>Pdf</td>
+    </tr>
+    <tr>
+        <td>File Size</td>
+        <td>MB</td>
+    </tr>
+</tbody></table>
