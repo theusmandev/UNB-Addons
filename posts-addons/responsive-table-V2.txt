@@ -1,0 +1,74 @@
+<style>
+  #simple_table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      background-color: #ffffff;
+      color: black;
+  }
+
+  #simple_table td, #simple_table th {
+      text-align: left;
+      padding: 8px;
+      border: 2px solid #000000;
+  }
+
+  #simple_table tr:nth-child(odd) {
+      background-color: #dddddd; /* Gray background for odd rows */
+  }
+
+  #simple_table tr:nth-child(even) {
+      background-color: #ffffff; /* White background for even rows */
+  }
+
+  #simple_table tr:hover {
+      background-color: #ffff99; /* Yellow background on hover for all rows */
+  }
+
+  @media screen and (max-width: 600px) {
+      #simple_table, #simple_table tbody, #simple_table tr, #simple_table td {
+          display: block;
+          width: 100%;
+      }
+
+      #simple_table tr {
+          margin-bottom: 15px;
+      }
+
+      #simple_table td {
+          text-align: right;
+          padding-left: 50%;
+          position: relative;
+      }
+
+      #simple_table td::before {
+          content: attr(data-label);
+          position: absolute;
+          left: 10px;
+          width: 45%;
+          padding-right: 10px;
+          text-align: left;
+          font-weight: bold;
+      }
+  }
+</style>
+
+<table id="simple_table">
+  <tbody>
+    <tr>
+      <td data-label="Title">row1 col 2</td>
+    </tr>
+    <tr>
+      <td data-label="Writer">row2 col 2</td>
+    </tr>
+    <tr>
+      <td data-label="Pages">row3 col 2</td>
+    </tr>
+    <tr>
+      <td data-label="Format">Pdf</td>
+    </tr>
+    <tr>
+      <td data-label="File Size">MB</td>
+    </tr>
+  </tbody>
+</table>
