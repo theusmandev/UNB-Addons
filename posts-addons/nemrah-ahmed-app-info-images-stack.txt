@@ -1,0 +1,411 @@
+<div>
+  <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+  <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"></link>
+  <style>
+    .mySlides { display: none; }
+    .numbertext {
+      color: #f2f2f2;
+      font-size: 12px;
+      padding: 8px 12px;
+      position: absolute;
+      top: 0;
+    }
+  </style>
+  
+  <h2 class="w3-center">Screenshots</h2>
+  
+  <div class="w3-content w3-display-container">
+  
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuYPGh07Q72gw83XEnGJg4FuSSFs7Fx-ZqVRdBJjVM4xeGJIm50n0-2soKUZL_WzKDch_7caydG1TVzOgG9AUwqvMTd6O3ehw9ZO0SBbqOUVUuH4RPqKLmboEoY9SISIv8jVG3PBzz2ahP-MMESq3IA8EvsCiW-4_cY8Br8zzy-dDumFFOdnCI8TSA-cQ/s720/Screenshot_2024-07-12-22-42-22-53~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2CtK5z8lrRZ7dJc1jG6ssSQIEaDoI4R-k_4C-e5M2Oep3-joLcg7ZBYBwPBEPF1135ey-kl5UgMF8vjxkurXMgkOkP_tOKEkS3bOO1IpgCih9GqkI4sYbh6uoTOHc8WLJT33UYmOW5cgKXJEU1tqrKwU5vpdnwMXb551LJRkzNUoNWIYzw6dCgibFkJB/s519/Screenshot_2024-07-12-22-43-31-86~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+     <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2HjtcjxtrCOWLMH77BUuO77C52BmtEdCcJ4G52uuComQ-xW_uj399PsX_xJzw9tgw9A-HNxjMt-93Wbn5zjNezplJ01pmmGSejcItLh9L_Mpk5Yj5VahBz_aDi-GScxXU9Wt120l0X81nJLHSBjdGjEFLnrj9SnkAadLecmPMjdXYtW5X9D9fURHhdaNF/s656/Screenshot_2024-07-12-22-43-31-86~3_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4hCf9JeEYd6KG75IlBOHMH4yimFbLamEzjM1xIRF3bjWUFbsNO5RcTZg09wkoA0PpROaNfCbb4BsllCEFGMQdbJv29Ego8IHbV0dFObywCfE7ISFJmfAChnxRe1y5iDrZcHETiOuBcgctZznixMStBNtB_tgQHiYaabUFd6B1cvKjPv6QICOjuo4buabS/s720/Screenshot_2024-07-12-22-39-42-13~2.jpg" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+   
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijR64tSSTBarpYNZfwOBFkf624IqImeE90E6Fq_GrxMq_7ALzWx179VAmol0d471F5XSY3_2S-F66yiU1LY13AurPa3fz7K9tgpagEvNns2G-k2iVC5PZTpnYwH7Wt9JjMwJO11BnEb-uHmJ-93HvESb8CN4JQOnhQxeKbbvM0nE3Vv58ZHfkKBCN_Rkdr/s720/Screenshot_2024-07-12-22-43-37-03~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ncbzZZZOm5rtlBwvuAumVeyvgrelVYVoyhzrGRRuuWPZMd_lC-zV0TT9pu_QtPCDzx3H0baWlLlQ6DuniQ_8q9b5X1-7tfeC60edgCMA7KYagZPgQcT3QCdQdqg-nPfUTC9g6LgA5OF6aQksb-Dz_0Waf7ZThfD836ES3xizKJdS-MaIACf_-No6rjBc/s720/Screenshot_2024-07-12-22-43-42-21~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGx3UMgNBKnsasXaaB3WORh86TbAPfTKydVNpPgqGQBztgT8Y_AsYi7G2dOnOowUQhbuDNeZO5XbzjsTryh86KD-9B77lufc3uB8Z2QtClvye-Yf2yr3Yi0PruDKN3HiwIw16wYQJq0YPlnK7_vhHFw2gnaBLtj_kbQoqbrerY720Sz7se8J85cBlydxZ/s720/Screenshot_2024-07-12-22-43-47-41~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7PT3WH8Q82axlUXvTB2mMZoCddUIwwKckRA5-GF00WwRzwQds7JO2Pwoq_KoprXDp2uds2Pe8C-kkut_T99bns8slKeKeAj39irnTn5B2vwbzD_rlM6wqoWoqj9bnpz1RuOL8UqIe4rN792DpYJx6rxRaAvxE9-w0WR9obOxIM6pgO3GD0fs5Xj6q5jLB/s670/Screenshot_2024-07-12-22-43-52-51~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIbAqBl8ZeWUfcFgfWwM0mRsTB900MSOklJ4IXip5sSTaPa9yfo-dxYtPOFlEtAf111LVhY5CiIGyvHJWH46DXdMN64HpWzqJvtal0amBaiSppQJJbNqv_QPn-1v54XKQkCauzIBNFMTnaalH_0cHaJDz25RU8Jl3sWm9MZCc6uv3usKmyMLgtyh82ICR/s720/Screenshot_2024-07-12-22-44-48-54~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDLN-pTESzBUNeZors-F23YBdwzhGGCPqa_VaxrNK1-6sbToH2WI_41FF0D2-V4Tp8oE8dbUzDt90LkLuz5G4CG90iqqVvWVlgartmaeWbwRX5QL7mx26JurBAonFEF2QbQSnqKzObhn7y-mMuYyrLgjdBeNemnmTWxaVjiA3HHINkqx_u-3d83Whwplh/s720/Screenshot_2024-07-12-22-45-16-55~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb1LZq8tvURVrUk7Az_nB3ku4ToncaaujrSeqtZdnGxjBHjYAtRwe1ze1lCcI18PR0rn1NSW9rr5IiXlnih2ZV1CqkE20UQvJU74RJKG4_8-tnHS18_dXTB_sQm4fLN4DzgArZoxR_vdypUNkQQnTwmAU9f_M5ShWVSgcT39IOoy8rvBBVoWT5bbR2wr4b/s720/Screenshot_2024-07-12-22-45-31-95~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Wk9QBRg-u1lV4fllYeK-JpVfgum5H3NR6uX5twh7ACbyd6UbtTaFbsr8YlTGy3QiW11QZkK1zkf7nSuvLUxpCKNwlLywjRe9Vr0iDmjYSk1_Ig_C_c_zeNRBRVwrpaZeAJ6A09AQVcC1VyXyjzRm7ZjlrA5bLyLNfqh5Ijl1QWy8MBRwJ0RKBNbbMOwM/s720/Screenshot_2024-07-12-22-45-42-21~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfoNYP-t_Ri6jCPxUyayr8gupvoSiJ3ciwzkS8TZrNRGkfvdMmXrDl_R8EuUSBHHZb3uvTSDGvheNX7q9phK2EG87XuJN3w7AlvMCLPXvtLSO6S5Sr1H-nwUH2OyrC8PI0CAWhuiL-D5arDOLgzoBaD9Es6cmiuor9b-uT8XNW7yF4cbmo8b_6j1eDSVuZ/s720/Screenshot_2024-07-12-22-45-47-12~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWQq6O1i0XSHnGNkRREry4RfK1oVq7J7DBrL1sqIMJ0EOVhcW6zARcJgCbJwDN50VCir5YPHYBvqZH6YgSFXAwK_7biVUBtuDcfik7cxJMdUbwQ5GkT-8nboUU1l99cM41721Qul-WpzGyrCjQ16R4WxSrucvl7PUQv2kTr0cWOzSXYSn0-rHSGu0lSkap/s720/Screenshot_2024-07-12-22-46-02-47~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6sbLRhcxgdrHyaBIF-DYS49AyNa2lIjGSxFeIferlIwpbUNLjSyNn78JUJDrvxaIke23BsO1QYGVqqPypuOATGUCZAJNks-hWyNnPlo7enWez9gX7EGQsB1qs1KoZmDHYpM34YOY5M6n8-ZjFR6RCk4ydp_Sb6RIvPVCqbL3eu3LNKBNxxsdlickm9Nq/s720/Screenshot_2024-07-12-22-46-21-06~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia_Nmva3VbTpiI7ejZEaVwbGbh_ZU1IzrX2QjIhbjCG-Q0eaE4bqgIgtOwnYlovOrXMYuB6x0GMpx1PCWMXfwP2Bi6PiTNNnOlYEx81PRGLtrXOcZmlVQBcG8_jG84ojxRMmL-flT44Gv0Wj4hjwLCVpt6xf_j_lI0p1uh06FlnTzoc9FLGd0P8CZjXbWG/s720/Screenshot_2024-07-12-22-46-49-57~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtdkYbOy1c5YlutX-IGCLUmyitK3zhAlkVq-Wbv9HC1EEhrkl1o8sKeOkhp0Rzl8iYHJNmFZSt51p2rRqsHjAljcEHZmMX0xF-hVFuyf2E_zb_Z87ibupliwArGLXt3Qo7-g2TTWtSUSXFYGPOibh057-FQoZ6L_d4den4bDX8aW8xaS8qwiDv4Lrtpd00/s720/Screenshot_2024-07-12-22-47-00-13~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiu2MWfpgER7UkEN7nNMEMfjYSZpuI0kbDSxiuyuKwN-HefPJFbuSJVo3EgYhlF6i5J8cwhlbzL3L5Pgzu7N2lQyP8_P0mT7hfnXNxP-E6kvPsFimrF9K5EHMOEubTXjidXV5b_mDytPPTRW07K9WDS5IO3kc67AnOjzlx-fnkcBkxbIs8cB9OZcZI8lR/s720/Screenshot_2024-07-12-22-47-25-31~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgunHasnT3i1GilxYqp2OXbRl7EhfcPH6nO4jQFRuO0V7A9ua2rib1qfDHzgAnK6jD1yN2El1VJKloe8rjIKbStKTHg7UX_siEfDYuwSHwFZV2wRCVmHbq1aHmvoWOAWyAs2_vms3ufLWbZVyQQM7kaHCO1w128_bYoMe7CmXoXXt2aOFLZUgnVDrZcxEBJ/s720/Screenshot_2024-07-12-22-42-17-58~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJ6Qs7P_upIObAS6wJxg9wKqMCbYRJZ6P2y2LROLdzaZsLApbP4FLsbqhmCWDdSAKC16NPSqhFgKx-l99qhExsEYNfXIXFCjpmuvI5FsAA1mERfaT3d09WiWC3oA6W_U2BCIo817LrlwbWwaqqzfdB0OpLx0haVJfSkE80QtQ2pZt6ohyphenhyphen4_n5LiWtyS-4/s720/Screenshot_2024-07-12-22-42-02-19~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpvow3qCj3hdPLApcb2__Z3FB_7syur4vc1LQ8C1GLMOgzur9Eyc4QhSTzdKsEbYfH6-FkW8Re6XZAwyHuJWZr6Y77M2Yz7IZck8IrPSIa1vIFKWztEBT7YHk5yPG0X0hdcEsEZVTIIp90FHyUeb6Urs6lIUA1ieiWa1VVwP9tQp_cXwLRDkKReSKeDa2/s720/Screenshot_2024-07-12-22-42-07-24~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyl_DLYkuoqzpK9X1UYOaECCl9g0HVw9WA1AhcSva32y5S6LxhtNg6Qcs03MuoTzF3F-GnEPE6lP-1OiQYh5IBEbXR-7CADU1zQv9i8fnj_nhLt3A3nGmDBUcwZXM8DojV_IVdBwRel1A3fiqZ6mkeX_aSoVb7U84XPxJsxr714xa-Fih6X3n5vUL4NqBZ/s720/Screenshot_2024-07-12-22-41-57-11~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKbsoh75U8iSFYOuAdKeDMppRgcPvGZgb64EaxpaR5QztdiU6Kr-AjMA-Yw7SS3HbSiiHAn4kX-SlJ4PQBFWYsuTR0NhzhV0X6IWjHpW1i6zSMHNpQx9X2Qhya55XUVecxGw1l2e4YYRMKwjwti6dnE7ly5yjsyp3vuz3l44GhX-eEcYxgKcDh6m_QQ1tI/s720/Screenshot_2024-07-12-22-41-41-68~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr3FCUAPS0QxTr_GG3MOW9ur2LCaqzFT8V5koEh6PvlDCXluhva13vyTiSYHIoTsxnyTubN1SsFUdw_XpGkh8LzYsU37l22NTpP_Au9xBusMlsjDD84iIy0ROK04pM76_6ukcM7mVbx-LqR54OQtw5wBlIwDgR2KR98jWJUuMWMFEvvcqmMZarK2rXWtvq/s720/Screenshot_2024-07-12-22-41-31-81~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYL7hoTDZwuh4wRE1RnLRPAKOtmwlSwDrwRpwxeaTWkPLsbjbSUbmryh_RPKqPhBRa7FQ19Uc7cNWK8Wavztn3FBlO-96X7PwYZBMX12TcueVw3thglB4j44YSaQpMYL333MPr-S0M-2mDlWWlB9q7N7TApRZ7luvDzWDdWybnXdhiOn00VrvtjgbwGCLn/s720/Screenshot_2024-07-12-22-41-27-51~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxw9C8PrUKXD1Qzd5tn0kJXqMC_3JeTv5iYYMON8dMpWiq2SCSgSa70gSrdKWkvNPEc5OIeLx6FDkPb38m6f3z7XCnQ212eJR4A0RSZN7hbz8f1GBb2XNQONJ8WNoL8lUhd1kT8-NSL3phvGx3mGgAzTioIHnoNgjvOsAzMvOLGyEeRwIl2QQF4dEB_6Ic/s720/Screenshot_2024-07-12-22-41-23-25~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEXFfu6E98TMpn172EUHrzt2ui135hKNDNrK3xu8IUKcn3mxzlhYfz5afucEbxd5TqS2WKl5VnOszteWANMJ653Kg5lvNfsZ-tbrKAJU1rZ9gUeQRnVKm0AgwEmydaY1D1edhvdifT_1YzSaOdMU-iFcZcepXJMWlOdta3YRPYWiHh2VbODpv-VcO4lcsO/s720/Screenshot_2024-07-12-22-41-18-87~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx9aLc8T0OI3nSEXU7xwXU8QNqtXaVdUP9UalLUusBfD45Z4kfgd8mXxj85g1lvmw7o-pyQ7pKgcc8fXSsu083oScUFJ4l2DH0oRRXFAjqfHCVaph8Q-1kkyeV6dPqnwHr2g05MSH6GIFhiuIkmf_kDJt9KN7IiYjloz91-XXMG5ACvXXgl5uhCh7JVZju/s720/Screenshot_2024-07-12-22-41-05-86~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK9fJda9qwWMAFES3B-vTEU19WioTk4ueBu2_-IBgxBIQmGHTAptrQIWmpfwwiph37RHxNdaJBaxJycNZbu9MDSJ6GBmyIJQ6X1HAkR7Q4eO-HUrGqYJf5-VCXSbnGOvDiBlb1Fqy0rVpP3UmNLKLY6GAPZumORszBfnoYNe1PuDHs1tdw97xGJvTnf_3n/s720/Screenshot_2024-07-12-22-41-00-80~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvwvgogLm4wMmVv2sGVC_WG5EAppcsZej7W6zbVKZcNbLFwFbfxkE2sN0Oc7jk9PoLnJo8Mbc_tKyFHc9uXhUuvXXzs85X2yaUXzClTLNOrgfWPqUEe-HcTqru-WSzqwiFoc1QZ_PoBI5kN-_rJ96C7kWfZreCZhCkIKTdW5H9J0lmSsWEicAQJ_QfDV1s/s720/Screenshot_2024-07-12-22-40-55-59~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiB40-VWiP0aR0ZMNgmn3PBhDC1LwmyYHQreAoZY43dg_H29TPFIw1TcIiNgCtGUEKBkw5REqlGfQHvPxtYhOH4LbeefxPKbe0n7vIm7y4fgWLR29S1scQeLEqKE-Od84WemgvedMpwCHGzxDW6tzpEDb50bOjFDMj0dkhuzSdPsmQoJR8VCZXHL5QzXuN/s720/Screenshot_2024-07-12-22-40-50-73~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoFd4G3w4wbXG8YZ7NQKsqla7Lary6YB-g1o-bnbwIQIsCDf8bLoSOaz85H_7KZ4ufpUQ63GesGCcPAuBfxSKWf5kowLwur0tQInTB6H2Nlt0jkFa6JBguUxc2BaOM1P6lrm7a5VfJRlO8DvnTcuM4_eHDF3Z2nb1sgCSHEmfM3UAB4wBQGVHJ6pBNXBM/s720/Screenshot_2024-07-12-22-40-45-97~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiD9rIKyiTOVWvVvDSPD5B-I4ZxqQAnyMnKIJMOouY2RUB6Oi8hyphenhyphenauZ8qzuFShcMjIFEHAdmp4WBZzQ-4egp2reHBkP1XlNc1robu2HLZ1jZ3UQ8o4xq8X0b4WJr1vKitQ7fs_tluhLE2NfIH0mcKoUxscY854nUnCtJAqyiT8P03Bv6eLA66AAx59mI69/s720/Screenshot_2024-07-12-22-40-40-51~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFNqTAI9PNLnwzwvuICoEYm6mQ6EYVrxmYLQPPutPToeZGepd1ckDQdtqp8jtRWa0ltZA2waIuWP4vr9HHy06wgBHCfMMUZAVjUunbrqb4fpaaC9q7R2GOKJXcB8N9xsWIBvuQSSeUka_PPcccO_lLhPJfcvNvJFN6truRmxGRXC7SQNMfHa4B64vLYRV/s720/Screenshot_2024-07-12-22-40-35-55~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCo2CcliTcGuveen6-u6te4PHArB2xz4FoYhTSTsGRRtVCiM1htzvIJlfSv7aNmniA4YDNijEvDbhSVuhkt2idsSNWEgcrZxg7vMt95rNynPrrxWkhQINejJlg8oWZqyIpE65wpFTJdQC3WlXCoG5A-Bf_nG_UuXWQU95C0EMYzjJohBa6hGANRB1R7UwH/s720/Screenshot_2024-07-12-22-40-30-78~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnXQn5cfHu3gPVmsVCqoWXErvdMn7N5_7riDZdhugJMMSOAJGRqJMm4jBzDCoJogokXAft_AGsDb7ddjeo9aT5pfavvEX6V4bmzKqBNpheBVMtbxxwakRcJ6974oiFl_G32t03aF_VvKwsCz3T_FbwdZRQyurXvqFpPgCOh7R7jqIkxYyhGHWwKsGFWUWK/s720/Screenshot_2024-07-12-22-40-25-48~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-C_81kqwWSxZqmG3G8vchxOXLr7vgRj8Vp9EIvRDissxvnpXufq4w3ZiLcoZPo242N9dPb1TyXI3oKBc4XZCSNKPGSpMgkwAS9mbXz_C2QFbheZ-bLftfFTzR6iMGH8iaK-1VBNYcC93E4YAakAA0MJAsVIFcHCXGorspVOF0aqlOVy1IzuI3zbTFVhPg/s720/Screenshot_2024-07-12-22-40-20-32~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_3OOD6U488F1RJiaEntA-hSJUCkY4BZLo_tWq6YlUDeeopmhkkPpHjmfDCTqs-AQGp91W7g2j7PNHeDh8OTnMHPP3c7bitPyitjxi3lIqu8VbusmLDPGrjvtHin2GSzNnmcoBnpIONXjEOwXFCCdTKdRUiSsUllvSBFe5SPqek0-DKJEQyOLhXVyaumu4/s720/Screenshot_2024-07-12-22-40-15-11~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLgQJIctzjyc5D768Gx_E5lipUb3MnOwiJsDVmrm8ES1OjxjKE6r9HFaliHVWqgOAAaekah84dPLpY3lmlDt7gL2bruDo7-CEjOR-lRZ92DQHYoDN3PxMA5HjQent1MP96F7nsatfnnLJnNmf5aQj1j03OXFm1q5lki6RPFzS0_TJlLvGfGopJvsHcE27k/s720/Screenshot_2024-07-12-22-40-09-90~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTwumaFJF6K-VT-D9Mk8nwwKqrop50pQgz8tE_OrU8SL0u8s9x5bin530HQvf1ieseneircv-TV8qBaTrFokxz2IO28Ta-v3VzqI0acGzX_pgfkUubO30pkWeq9XOvVKDNCLDTMUjGPO_y8WNis3CSil62sk94xQUM2gsvsSc49R2mg7DUd5Yn58CLlXq/s720/Screenshot_2024-07-12-22-40-05-08~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOMnb7rpkkjbEUmFTHniwWW7NGLlda7uBs-81cHkk368Ecd5tWj7iNUnziFv1ZndDkwzDBKb_VYvLFk0qDSbHtFUX1eOhyXsOHEjh45RCRk7f2QJZ9QXAanZfbj2dLkhoBfhVSoKyND4glGqn6wg-eUIioL2cJ5yaxsPznfuyvQkuP1EaKP5nqKA9Zt65D/s720/Screenshot_2024-07-12-22-40-00-01~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjf9PAjLpipxMZeYGUyUaQy8BDT8sSg08igdaXRTEdBI9Obdxw6DIyvgCD9DblODBpOYQInL591V2QCPYbhlCapE8u5kgtp49HN5sUo0412ewJd6CV3IasrEmoPNUZDU6QZh7k4kjiIOaOoBmbkB1o6vMHCS4rUWjk0IssO0Usjv_Mgj2i6K-pm8No0MeK/s720/Screenshot_2024-07-12-22-39-55-49~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnsiJN0RRnAS8BZ3cE9T9U9kpR2SoI0G1iMUZvwS6f9sT6HtnNK4GLt7nTMVD5z6CPelyJZC9zJJKDrGH29uuUvzba3SAFiT7lRxYjCAbWP6pqJmhc2QmzdJM0tCJx4Gtb-HnKdO4pMeCn5thlSOzqGXDShSh5fA6SdShbCVcvremE0-IRhrA5x1djR0H/s720/Screenshot_2024-07-12-22-39-46-15~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi41ag7l38CupPhhjUJWNUQWOwnMkyfsCV-QSPNhr34IMUyqTcsqc2N4F9hj0BoP_jvh9fmWbTFtT4ONQtzaYbes6iQJcVJU8a9yubM1nEKf3QYDDGV3fjPr1m_oo5XLm3DOWozc0DGsLzSofkzmFwu7CZkLbFsvuo1AybbM0aekp8HAyaK7phGTEeAbnmJ/s720/Screenshot_2024-07-12-22-39-42-13~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIUnTYSFP66yn3SOlaib9dBm4vp6gT3U8sOCuPe3rIY89RYgsUIyY7IquzzwgaI4qvpkBj0L8DC0_Vkp1cu-ppIpw20ATJ74ZSZaai8Fr7x9Maa82duc9UcH19vDWbRhJ062SSYKXGJedRAvaMfvedXm2bTw97j3Hnz0sDSZq-lXVAXtviCtcycjnAsCkM/s720/Screenshot_2024-07-12-22-39-37-58~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinYaLNDW77B14ulW1PpzE8YSUMAyl40VtyPG3QeyJceX_Su0XriHLscmVefAzf1aLy13Z-1kKH5znPv_qgjPLitUSvQh-6S97HqT3DqVdzUzC_fs0LIwBWXKxjT50F6j-jDCoG9VaozC9-SULk-ZQcwcNenM1Q-rqIPSBBX7uUIXgvXKZ2ZujA3CoRIeVV/s720/Screenshot_2024-07-12-22-42-12-72~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7khj7QZR8DdzFUahRHB-7Y2zrDcMUrzhS8GClqx44yzghqlEv90jeiY8acz-DJnmOYC4jqV8ToM3S-CE0PObE5Mz-8968-V7nINpOZJXi938pmd90UesAsyUDUiaqOGL-IMi7KL2kUfamtsWHYtVP_UEOLcdZetGMHCGErRDhHJhHxI32IEMy3dO9yiH1/s720/Screenshot_2024-07-12-22-42-27-89~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilMlW5S2NqRksWJ3TcQuy3ACEeUYWDB5rao05yfeQFvu8wYUv277XUfbAIebnt9vOyixZL2bXYyDIqlVhE1UhAaeZtzpzkNiPWp-iM5OifY2QQfD0QGQ6RsmJCeiodRtHpvpdSAQ2V6CJlXeCYaqVXl6g1xJuzjMHVFB9w6oMvfoyqZbe7HEYfcJBvDkWG/s720/Screenshot_2024-07-12-22-42-38-29~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijF8wR9ZqtTjFhN5hTPrYszqPcEr9c7nr_Pi3DAdALLvKWWozLUS2HwLIm5nwhBcYLk41NPP5qxmWgOlSVEDopdTQTNct3gH46e6-UKB8InaRcp0g_EieVWdWv7oPO16KGZ6Yb9GEDN_MfKISHWSPnS0ASuWPqRaC6N4IGvEpRthcon7bK0H2G9rYRRytJ/s688/Screenshot_2024-07-12-22-42-42-98~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijT_9zxwxE6JI8QKKgSazfadvF1HVC2R6s5ob4fvSIDkp7WjCTsivpaIhfwZ3PgJqcSqgr0obOZcsfFMC901hEVPH1wJEEkjCu10KWq9RIsnMcWQ1_xRGUQ5TW1LEE7TgPhWg7U7_56I08TDn_MLgiMcviBf28cI-V8wFPCCCIAHBW8b-NN7-OnZ1ElfaQ/s720/Screenshot_2024-07-12-22-43-18-25~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE3tV-HMrAzk_mAi1NhMhmqXSAZGNHdk-IBLlrQHkMl6Knk5XCpGSs3xYjWW-DFyuS19zW4KGfVJjtlzU_HcAikmSny_MIrKR67p6TqUzHDTPvYiTbREeAakY24c6-S_xPlU8cQ2g9VUbwnM7lFnlAKkBeUdFSF0Dk06AoaVJODBKaSRX6JF8RJ3X2UoFZ/s720/Screenshot_2024-07-12-22-44-22-04~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    
+     <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEUfuqLZUfdJXWmM44BEEcKCNVYaQG9D0UQCkVUDh5q_BP5k5o_Pou1iygytqiQxwvDjdKvPmS5t6K6yFLhWJz9XK8CA1SqmHnOEp-Y2nfcjwMYNTgM3hogtCDXDttAkNF4Y31_7DWLUqNQfdCYwayIfjAqz3stG9sZ2f0DjCeSs9FhRUMGJMzSR-EHH3D/s720/Screenshot_2024-07-12-22-41-36-68~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTKLXuTTMdhaNZgDGPLhqI9YcdjSjuoKPrvORDm9CYOWJJs5ovxNtMaRxR4B0zyZyTam81U4rDvGzD6NUcu-ofLkqRuEGZpoi0iO5JEuxESua4gxkpOQCi-xtvwQXaROT2vjfmj9IDOJAFCZlrNZ89Y0GepYtvdHptiCsuRjISg2WZFitGGbM-FBH-XGJ/s720/Screenshot_2024-07-12-22-41-51-86~2_11zon.webp" style="width: 100%;" alt="Nemrah Ahmed App, mala novel episode 19" />
+    </div>
+ 
+    
+    <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">❮</button>
+    <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">❯</button>
+    
+    <div class="w3-center" id="slide-counter" style="margin-top:10px;color:#333;"></div>
+  
+  </div>
+  
+  <script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+  
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+  
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) { slideIndex = 1 }
+      if (n < 1) { slideIndex = x.length }
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+      }
+      x[slideIndex-1].style.display = "block";  
+      document.getElementById("slide-counter").innerHTML = slideIndex + " / " + x.length;
+    }
+  </script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+  <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+  <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"></link>
+  <style>
+    .mySlides { display: none; }
+  </style>
+  
+  <h2 class="w3-center">Screenshots</h2>
+  
+  <div class="w3-content w3-display-container">
+  
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4hCf9JeEYd6KG75IlBOHMH4yimFbLamEzjM1xIRF3bjWUFbsNO5RcTZg09wkoA0PpROaNfCbb4BsllCEFGMQdbJv29Ego8IHbV0dFObywCfE7ISFJmfAChnxRe1y5iDrZcHETiOuBcgctZznixMStBNtB_tgQHiYaabUFd6B1cvKjPv6QICOjuo4buabS/s720/Screenshot_2024-07-12-22-39-42-13~2.jpg" style="width: 100%;" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUBoG4K1ePjcWDK7Pqp7iD53Gw6B4_zhBQ8B-jIuzEgam4VHfupZd7RhJWS7Q0kEBymeRO2M0lgvrnimHeCLr74mmemjTk0tfz12ejqxCmU44iCpc39_Ld1eUeBNjcQhCV-EzSM22RQ1XHOnSf-9FnLPcw9iCMSR-vGNumeN2AvtqxhrcX28MuFZLEwB4B/s720/Screenshot_2024-07-12-22-39-55-49~2.jpg" style="width: 100%;" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4hCf9JeEYd6KG75IlBOHMH4yimFbLamEzjM1xIRF3bjWUFbsNO5RcTZg09wkoA0PpROaNfCbb4BsllCEFGMQdbJv29Ego8IHbV0dFObywCfE7ISFJmfAChnxRe1y5iDrZcHETiOuBcgctZznixMStBNtB_tgQHiYaabUFd6B1cvKjPv6QICOjuo4buabS/s720/Screenshot_2024-07-12-22-39-42-13~2.jpg" style="width: 100%;" />
+    </div>
+    
+    <div class="w3-display-container mySlides">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUBoG4K1ePjcWDK7Pqp7iD53Gw6B4_zhBQ8B-jIuzEgam4VHfupZd7RhJWS7Q0kEBymeRO2M0lgvrnimHeCLr74mmemjTk0tfz12ejqxCmU44iCpc39_Ld1eUeBNjcQhCV-EzSM22RQ1XHOnSf-9FnLPcw9iCMSR-vGNumeN2AvtqxhrcX28MuFZLEwB4B/s720/Screenshot_2024-07-12-22-39-55-49~2.jpg" style="width: 100%;" />
+    </div>
+  
+    <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">❮</button>
+    <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">❯</button>
+  
+  </div>
+  
+  <script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+  
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+  
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) { slideIndex = 1 }
+      if (n < 1) { slideIndex = x.length }
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      x[slideIndex - 1].style.display = "block";
+    }
+  </script>
+</div>
