@@ -1,0 +1,239 @@
+<div id="requestSection">
+    <style>
+        /* Novel Request Form Styles */
+        #requestSection {
+            max-width: 960px;
+            margin: 32px auto;
+            background: #ffffff;
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.5s ease-out;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        #requestSection h3 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        #requestForm {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        #requestForm label {
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: #2d2d2d;
+            margin-bottom: 4px;
+        }
+
+        #requestForm input {
+            padding: 12px;
+            font-size: 1rem;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            background: #f9fafb;
+            outline: none;
+            transition: border-color 0.3s ease, transform 0.2s ease;
+        }
+
+        #requestForm input:focus {
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+            transform: scale(1.01);
+        }
+
+        #requestForm button {
+            background-color: #28a745;
+            color: #ffffff;
+            font-weight: 600;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            position: relative;
+        }
+
+        #requestForm button:hover {
+            background-color: #218838;
+            transform: translateY(-2px);
+        }
+
+        #requestForm button:disabled {
+            background-color: #6b7280;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        #requestForm .error {
+            color: #ef4444;
+            font-size: 0.85rem;
+            margin-top: 4px;
+            display: none;
+        }
+
+        #requestForm .success-message {
+            color: #10b981;
+            font-size: 0.95rem;
+            text-align: center;
+            margin-top: 16px;
+            animation: slideIn 0.3s ease-out;
+        }
+
+        #requestForm .error-message {
+            color: #ef4444;
+            font-size: 0.95rem;
+            text-align: center;
+            margin-top: 16px;
+        }
+
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            #requestSection {
+                padding: 20px;
+            }
+            #requestForm input {
+                font-size: 0.95rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #requestSection {
+                padding: 16px;
+            }
+            #requestForm input {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+
+    <h3>Request a Novel</h3>
+    <form id="requestForm" novalidate="">
+        <label>Novel Name (Required):</label>
+        <input aria-describedby="novelNameError" id="novelName" name="novelName" required="" type="text" />
+        <p class="error" id="novelNameError">Please enter the novel name.</p>
+        
+        <label>Author Name (Required):</label>
+        <input aria-describedby="authorNameError" id="authorName" name="authorName" required="" type="text" />
+        <p class="error" id="authorNameError">Please enter the author name.</p>
+        
+        <button id="submitButton" type="submit">Submit Request</button>
+    </form>
+
+    <script>
+        // Replace with your Google Apps Script Web app URL
+        const scriptURL = "https://script.google.com/macros/s/AKfycbyv-boesbCqIjdkBcPVeJXGp_A9fNWtjMSourReTlV7sWZmfK72O4eK8y1SKMek-hV1/exec";
+
+        function isOnline() {
+            return navigator.onLine;
+        }
+
+        function generateUUID() {
+            if (crypto && crypto.randomUUID) {
+                return crypto.randomUUID();
+            }
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                const r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        function submitRequest(event) {
+            event.preventDefault();
+            const submitButton = document.getElementById("submitButton");
+            submitButton.disabled = true;
+            submitButton.textContent = "Submitting...";
+
+            const novelName = document.getElementById("novelName").value.trim();
+            const authorName = document.getElementById("authorName").value.trim();
+            const userId = localStorage.getItem("userId") || generateUUID();
+            localStorage.setItem("userId", userId);
+            const deviceType = navigator.userAgent.includes("Mobile") ? "Mobile" : "Desktop";
+            const successMessage = document.getElementById("successMessage") || document.createElement("p");
+            const errorMessage = document.getElementById("errorMessage") || document.createElement("p");
+
+            // Reset messages
+            document.querySelectorAll(".error").forEach(el => el.style.display = "none");
+            if (!document.getElementById("successMessage")) {
+                successMessage.id = "successMessage";
+                successMessage.className = "success-message";
+                document.getElementById("requestSection").appendChild(successMessage);
+            }
+            if (!document.getElementById("errorMessage")) {
+                errorMessage.id = "errorMessage";
+                errorMessage.className = "error-message";
+                document.getElementById("requestSection").appendChild(errorMessage);
+            }
+            successMessage.textContent = "";
+            errorMessage.textContent = "";
+
+            // Validate inputs
+            let isValid = true;
+            if (!novelName) {
+                document.getElementById("novelNameError").style.display = "block";
+                isValid = false;
+            }
+            if (!authorName) {
+                document.getElementById("authorNameError").style.display = "block";
+                isValid = false;
+            }
+
+            if (!isValid) {
+                submitButton.disabled = false;
+                submitButton.textContent = "Submit Request";
+                return;
+            }
+
+            if (!isOnline()) {
+                errorMessage.textContent = "No internet connection. Please check your connection and try again.";
+                submitButton.disabled = false;
+                submitButton.textContent = "Submit Request";
+                return;
+            }
+
+            const data = `novelName=${encodeURIComponent(novelName)}&authorName=${encodeURIComponent(authorName)}&userId=${encodeURIComponent(userId)}&deviceType=${encodeURIComponent(deviceType)}`;
+
+            fetch(scriptURL, {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: data,
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === "success") {
+                        successMessage.textContent = "Your request has been submitted successfully!";
+                        document.getElementById("requestForm").reset();
+                    } else {
+                        errorMessage.textContent = data.message || "Failed to submit request. Please try again.";
+                    }
+                })
+                .catch(error => {
+                    errorMessage.textContent = "Failed to submit request. Please try again.";
+                })
+                .finally(() => {
+                    submitButton.disabled = false;
+                    submitButton.textContent = "Submit Request";
+                });
+        }
+
+        // Event Listener
+        document.getElementById("requestForm").addEventListener("submit", submitRequest);
+    </script>
+</div><div dir="rtl" style="text-align: right;"><span style="font-family: Gulzar;"><br /></span></div><div dir="rtl" style="text-align: right;"><span style="font-family: Gulzar;">اگر آپ کا ناول پی ڈی ایف میں <b>available</b> ہوا تو اس کا<b> لنک</b> آپ کو میرے <b>whatsapp channel</b> پر مل جائے گا&nbsp;</span></div><div dir="rtl" style="text-align: right;"><span style="font-family: Gulzar;">WhatsApp channel Link👇</span></div><div dir="rtl" style="text-align: right;"><span style="font-family: Gulzar;"><a href="https://whatsapp.com/channel/0029VaurdEY0wajrnyeAl50Y" rel="nofollow" target="_blank">https://whatsapp.com/channel/0029VaurdEY0wajrnyeAl50Y</a><br /></span></div><div><br /></div>
