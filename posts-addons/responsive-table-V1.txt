@@ -1,0 +1,98 @@
+<style>
+.table-container {
+padding: 32px;
+font-family: "Raleway", sans-serif;
+}
+
+th{
+  color:rgb(255, 255, 255)!important;
+}
+
+.table-container h3.table-heading {
+text-align: center;
+text-transform: uppercase;
+font-size: 24px;
+margin-bottom: 32px;
+border-bottom: 1px solid #eee;
+padding-bottom: 8px;
+}
+
+.table-container table {
+width: 100%;
+background: #fff;
+color: #222;
+padding: 24px;
+box-shadow: 0 4px 15px -8px rgba(0, 0, 0, 0.4);
+border-collapse: collapse;
+}
+
+.table-container table thead tr {
+background: #162536;
+color: #fff;
+}
+
+.table-container table td,
+.table-container table th {
+padding: 16px 32px;
+text-align: center;
+}
+
+.table-container table tr {
+border-bottom: 1px solid #eee;
+}
+
+@media (max-width: 580px) {
+.table-container table thead {
+  display: none;
+}
+
+.table-container table td {
+  display: block;
+}
+
+.table-container table td::before {
+  content: attr(data-heading) ": ";
+  font-weight: bold;
+}
+}
+</style>
+
+
+
+
+
+<div class="table-container">
+    <h3 class="table-heading">Blogging Tools For Beginners</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Keyword Research</th>
+          <th>Backlink Analysis</th>
+          <th>Link Building</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td data-heading="Keyword Research">Answer The Public</td>
+          <td data-heading="Backlink Analysis">Ahrefs
+</td>
+          <td data-heading="Link Building">Monitor Backlinks
+</td>
+        </tr>
+
+        <tr>
+          <td data-heading="Keyword Research">Exploding Topics</td>
+          <td data-heading="Backlink Analysis">cognitiveSEO</td>
+          <td data-heading="Link Building">AuthoritySpy</td>
+        </tr>
+
+        <tr>
+          <td data-heading="Keyword Research">Long Tail Pro</td>
+          <td data-heading="Backlink Analysis">Majestic SEO</td>
+          <td data-heading="Link Building">Check My Links</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
