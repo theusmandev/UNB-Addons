@@ -1,0 +1,18 @@
+<script>
+//<![CDATA[
+document.addEventListener("DOMContentLoaded", function() {
+  // پوسٹ باڈی کے اندر پہلی تصویر کو تلاش کریں
+  const firstImage = document.querySelector('.post-body img, .entry-content img');
+
+  if (firstImage) {
+    // ضروری ایٹریبیوٹس سیٹ کریں
+    firstImage.setAttribute('fetchpriority', 'high');
+    firstImage.setAttribute('loading', 'eager');
+    firstImage.setAttribute('decoding', 'async');
+    
+    // تصدیق کے لیے (آپ اسے ہٹا بھی سکتے ہیں)
+    console.log('First image prioritized: ' + firstImage.src);
+  }
+});
+//]]>
+</script>
