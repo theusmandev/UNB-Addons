@@ -1,0 +1,27 @@
+<script>
+//<![CDATA[
+document.addEventListener("DOMContentLoaded", function() {
+  // پوسٹ کی تمام تصاویر کو ایک ساتھ نکالیں
+  const allImages = document.querySelectorAll('.post-body img, .entry-content img');
+
+  allImages.forEach((img, index) => {
+    if (index === 0) {
+      // صرف پہلی تصویر کے لیے: High Priority
+      img.setAttribute('fetchpriority', 'high');
+      img.setAttribute('loading', 'eager');
+      img.setAttribute('decoding', 'async');
+    } else {
+      // باقی تمام تصاویر کے لیے: Lazy Loading
+      img.setAttribute('loading', 'lazy');
+      img.setAttribute('decoding', 'async');
+      // غیر ضروری ہائی پرائیورٹی ہٹانے کے لیے (اگر پہلے سے لگی ہو)
+      img.removeAttribute('fetchpriority');
+    }
+  });
+
+  if (allImages.length > 0) {
+    console.log('Images Optimized: First image High Priority, others Lazy Loaded.');
+  }
+});
+//]]>
+</script>
