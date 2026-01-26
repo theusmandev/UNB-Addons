@@ -1,0 +1,63 @@
+
+ <style>
+/* Ad Unit Styling */
+.unb-ad-container-101 {
+    margin: 25px 0;
+    text-align: center;
+    min-height: 280px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+    padding: 10px 0;
+}
+
+.ad-label-101 {
+    color: #999999;
+    font-size: 11px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: Arial;
+}
+</style>  
+   
+
+
+<div class="unb-ad-container-101">
+    <div class="ad-label-101">Advertisement</div>
+    
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-589484058515454545"
+     data-ad-slot="866239445454855"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+For sidebar
+
+<div style="min-height: 250px; width: 100%; background-color: #f2f2f2; border: 1px solid #e0e0e0; text-align: center; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+<!-- sidebar_1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5894840239857666788"
+     data-ad-slot="563926666665480"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
