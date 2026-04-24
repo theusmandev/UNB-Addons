@@ -152,103 +152,121 @@
 
 
 -------------CSS---------------
- <style>
-  .unb-native-box {
-    /* System fonts to match your post */
-    font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Arial, sans-serif;
-    max-width: 100%; /* Full width like your text */
-    margin: 30px 0;
-    padding: 25px;
-    background: #fcfcfc; /* Extremely subtle background */
-    border: 1.5px solid #e2e8f0;
-    border-left: 6px solid #2196f3; /* Matching your blue theme */
-    border-radius: 8px;
-    text-align: left; /* Aligned with your post text */
-  }
+ /* --- Urdu Novel Bank: Universal Card (Fix for Mobile Wrap) --- */
+:root {
+  --insta-color: #fc10b9; --insta-bg: #fdf2f9;
+  --fb-color: #1877f2; --fb-bg: #edf5ff;
+  --yt-color: #ff0000; --yt-bg: #fff5f5;
+  --tk-color: #000000; --tk-bg: #f5f5f5;
+  --wa-color: #25d366; --wa-bg: #e9f7ef;
+  --pin-color: #e60023; --pin-bg: #fdebec;
+}
 
-  .unb-native-header {
-    margin-bottom: 20px;
-  }
+.author-card {
+  background: #ffffff;
+  border-left: 5px solid var(--p-color, #fc10b9);
+  border-radius: 0 15px 15px 0;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.06);
+  display: flex;
+  flex-direction: column;
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 20px auto;
+  max-width: 550px;
+  padding: 25px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
 
-  .unb-native-tag {
-    color: #2196f3;
-    font-size: 12px;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    display: block;
-    margin-bottom: 5px;
-  }
+/* Header Section */
+.author-header { 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: flex-start; 
+  gap: 8px; 
+}
 
-  .unb-native-title {
-    font-size: 24px;
-    font-weight: 800;
-    color: #1a202c;
-    margin: 0;
-  }
+/* Meta Label Fix */
+.author-meta { 
+  display: flex; 
+  align-items: center; 
+  gap: 6px; 
+  margin-bottom: 4px;
+  white-space: nowrap; /* Isse text 100% aik line mein rahega */
+  overflow: visible;
+}
 
-  .unb-native-author {
-    font-size: 15px;
-    color: #4a5568;
-  }
+.author-feather { 
+  color: var(--p-color); 
+  font-size: 14px; 
+  transform: rotate(-15deg); 
+  flex-shrink: 0;
+}
 
-  .unb-native-btns {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin: 20px 0;
-  }
+.author-label { 
+  color: var(--p-color); 
+  font-family: Verdana, sans-serif; 
+  font-size: 8px; /* Thoda chota kiya taake wrap na ho */
+  font-weight: 700; 
+  letter-spacing: 1.5px; 
+  margin: 0; 
+  text-transform: uppercase;
+}
 
-  .unb-btn-native {
-    flex: 1;
-    min-width: 160px;
-    height: 48px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    border-radius: 6px;
-    text-decoration: none !important;
-    font-weight: 700;
-    font-size: 15px;
-    transition: all 0.2s ease;
-  }
+.author-name { 
+  color: #1a1a1a; 
+  font-family: Georgia, serif; 
+  font-size: clamp(18px, 5vw, 26px); /* Mobile par size thoda mazeed kam kiya */
+  font-style: italic; 
+  font-weight: 400; 
+  line-height: 1.2; 
+  margin: 2px 0; 
+}
 
-  .btn-blue-solid {
-    background: #2196f3;
-    color: #ffffff !important;
-  }
+.author-handle { 
+  color: var(--p-color); 
+  font-size: 12px; 
+  font-weight: 600; 
+  margin-top: 5px;
+  display: block;
+}
 
-  .btn-blue-outline {
-    background: transparent;
-    color: #2196f3 !important;
-    border: 2px solid #2196f3;
-  }
+/* Badge Fix */
+.author-badge { 
+  background: var(--p-bg); 
+  border-radius: 50px; 
+  color: var(--p-color); 
+  font-size: 8px; 
+  font-weight: 800; 
+  padding: 4px 10px; 
+  white-space: nowrap; 
+  flex-shrink: 0;
+  border: 1px solid rgba(0,0,0,0.03);
+}
 
-  .unb-btn-native:hover {
-    opacity: 0.9;
-    transform: translateY(-1px);
-  }
+.author-bio { color: #666; font-size: 13px; line-height: 1.5; margin: 18px 0; }
 
-  .unb-native-footer {
-    display: flex;
-    gap: 20px;
-    padding-top: 15px;
-    border-top: 1px solid #edf2f7;
-    font-size: 12px;
-    color: #718096;
-  }
+.author-btn { 
+  background: var(--p-color); 
+  border-radius: 12px; 
+  color: white !important; 
+  font-size: 12px; 
+  font-weight: 700; 
+  padding: 14px; 
+  text-align: center; 
+  text-decoration: none !important; 
+  text-transform: uppercase; 
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
 
-  .unb-native-footer b {
-    color: #2196f3;
-  }
+/* Platform Classes */
+.is-insta { --p-color: var(--insta-color); --p-bg: var(--insta-bg); }
+.is-fb    { --p-color: var(--fb-color);    --p-bg: var(--fb-bg); }
+.is-yt    { --p-color: var(--yt-color);    --p-bg: var(--yt-bg); }
+.is-tiktok { --p-color: var(--tk-color);   --p-bg: var(--tk-bg); }
+.is-wa    { --p-color: var(--wa-color);    --p-bg: var(--wa-bg); }
+.is-pin   { --p-color: var(--pin-color);   --p-bg: var(--pin-bg); }
 
-  @media (max-width: 480px) {
-    .unb-native-btns { flex-direction: column; }
-    .unb-btn-native { width: 100%; }
-    .unb-native-footer { flex-direction: column; gap: 5px; }
-  }
-</style>
-  
-  
 
+
+place css above 
+]]></b:skin>
