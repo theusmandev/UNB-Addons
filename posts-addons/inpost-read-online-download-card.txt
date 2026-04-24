@@ -1,0 +1,140 @@
+
+
+<div class="unb-native-box">
+  <div class="unb-native-header">
+    <span class="unb-native-tag">Full Digest Novel</span>
+    <h2 class="unb-native-title">Dard E Mohabbat</h2>
+    <div class="unb-native-author">Written By Aena Ali</div>
+  </div>
+
+  <div class="unb-native-btns">
+    <a class="unb-btn-native btn-blue-outline" href="https://drive.google.com/file/d/18eI0lP36hJvSwkB6KXu7bW3M8W-a9xnF/view" target="_blank">
+      <svg fill="none" height="18" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke="currentColor" viewbox="0 0 24 24" width="18"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+      Read Online
+    </a>
+
+    <a class="unb-btn-native btn-blue-solid" href="https://drive.google.com/uc?export=download&amp;id=18eI0lP36hJvSwkB6KXu7bW3M8W-a9xnF" target="_blank">
+      <svg fill="none" height="18" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke="currentColor" viewbox="0 0 24 24" width="18"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" x2="12" y1="15" y2="3"></line></svg>
+      Download PDF
+    </a>
+  </div>
+
+  <div class="unb-native-footer">
+    <div>Format: <b>PDF</b></div>
+    <div>Quality: <b>High</b></div>
+    <div>Source: <b>Official Urdu Novel Bank</b></div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .unb-native-box {
+    /* System fonts to match your post */
+    font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Arial, sans-serif;
+    max-width: 100%; /* Full width like your text */
+    margin: 30px 0;
+    padding: 25px;
+    background: #fcfcfc; /* Extremely subtle background */
+    border: 1.5px solid #e2e8f0;
+    border-left: 6px solid #2196f3; /* Matching your blue theme */
+    border-radius: 8px;
+    text-align: left; /* Aligned with your post text */
+  }
+
+  .unb-native-header {
+    margin-bottom: 20px;
+  }
+
+  .unb-native-tag {
+    color: #2196f3;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .unb-native-title {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1a202c;
+    margin: 0;
+  }
+
+  .unb-native-author {
+    font-size: 15px;
+    color: #4a5568;
+  }
+
+  .unb-native-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 20px 0;
+  }
+
+  .unb-btn-native {
+    flex: 1;
+    min-width: 160px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-weight: 700;
+    font-size: 15px;
+    transition: all 0.2s ease;
+  }
+
+  .btn-blue-solid {
+    background: #2196f3;
+    color: #ffffff !important;
+  }
+
+  .btn-blue-outline {
+    background: transparent;
+    color: #2196f3 !important;
+    border: 2px solid #2196f3;
+  }
+
+  .unb-btn-native:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .unb-native-footer {
+    display: flex;
+    gap: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #edf2f7;
+    font-size: 12px;
+    color: #718096;
+  }
+
+  .unb-native-footer b {
+    color: #2196f3;
+  }
+
+  @media (max-width: 480px) {
+    .unb-native-btns { flex-direction: column; }
+    .unb-btn-native { width: 100%; }
+    .unb-native-footer { flex-direction: column; gap: 5px; }
+  }
+</style>
+  
+  
