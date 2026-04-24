@@ -147,3 +147,108 @@
 
 
 
+
+
+
+
+-------------CSS---------------
+ <style>
+  .unb-native-box {
+    /* System fonts to match your post */
+    font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Arial, sans-serif;
+    max-width: 100%; /* Full width like your text */
+    margin: 30px 0;
+    padding: 25px;
+    background: #fcfcfc; /* Extremely subtle background */
+    border: 1.5px solid #e2e8f0;
+    border-left: 6px solid #2196f3; /* Matching your blue theme */
+    border-radius: 8px;
+    text-align: left; /* Aligned with your post text */
+  }
+
+  .unb-native-header {
+    margin-bottom: 20px;
+  }
+
+  .unb-native-tag {
+    color: #2196f3;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .unb-native-title {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1a202c;
+    margin: 0;
+  }
+
+  .unb-native-author {
+    font-size: 15px;
+    color: #4a5568;
+  }
+
+  .unb-native-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 20px 0;
+  }
+
+  .unb-btn-native {
+    flex: 1;
+    min-width: 160px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-weight: 700;
+    font-size: 15px;
+    transition: all 0.2s ease;
+  }
+
+  .btn-blue-solid {
+    background: #2196f3;
+    color: #ffffff !important;
+  }
+
+  .btn-blue-outline {
+    background: transparent;
+    color: #2196f3 !important;
+    border: 2px solid #2196f3;
+  }
+
+  .unb-btn-native:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .unb-native-footer {
+    display: flex;
+    gap: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #edf2f7;
+    font-size: 12px;
+    color: #718096;
+  }
+
+  .unb-native-footer b {
+    color: #2196f3;
+  }
+
+  @media (max-width: 480px) {
+    .unb-native-btns { flex-direction: column; }
+    .unb-btn-native { width: 100%; }
+    .unb-native-footer { flex-direction: column; gap: 5px; }
+  }
+</style>
+  
+  
+
